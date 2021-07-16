@@ -1,0 +1,33 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "4664583f-2b49-4138-8eeb-a201359c3af5",
+  "trackingUuid" : "0525a328-3a77-4b66-a0b9-5bdd4cc5a20d",
+  "title" : "Tableau",
+  "description" : "Integrate with Tableau to provide easy access to projects, workbooks, and views without requiring extra logins.",
+  "iconUrl" : "exported/Tableau.92c06ed6cd3bc47a9b856af0b1826a00.svg",
+  "masVersion" : "1.90.2.f7f2332adb73918bb43105bcf2b9953bb0542789",
+  "categories" : [ "WEB_SERVICES" ],
+  "created" : "2021-06-02T09:38:37",
+  "supportsOAuthForActions" : false,
+  "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],
+  "apps" : [ {
+    "uuid" : "b81007f7-1cd0-4247-a7b1-ecb523ec5a05",
+    "trackingUuid" : "e028083d-7f65-4d75-8765-7c5d9afda062",
+    "title" : "Reports",
+    "numberOfEvents" : 2,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [ {
+    "tag" : "helpUrl",
+    "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-tableau.html"
+  } ],
+  "scriptMetadata" : {
+    "originalFileName" : "tableau.js",
+    "storedFileName" : "101b58cb-1023-48a1-9aca-4b64c2dbfd68.js",
+    "checksum" : "F21BE7D17AC472C283C87611D0593C98",
+    "apiVersion" : "1.1"
+  },
+  "hideAddButton" : false
+}

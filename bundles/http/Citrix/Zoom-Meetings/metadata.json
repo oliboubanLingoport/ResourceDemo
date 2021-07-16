@@ -1,0 +1,51 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "2ec16a1b-9423-45a6-8fd8-b0c42c916c0f",
+  "trackingUuid" : "3f395fdd-17f5-49fe-b553-738b1fe01c75",
+  "title" : "Zoom Meetings",
+  "description" : "Deploy the Citrix integration for Zoom to schedule and manage meetings from anywhere and from any device or intranet",
+  "iconUrl" : "https://iws-prod-global-customicons-cdn-endpoint.azureedge.net/image/NeGDzMjDGrvWq0GHp3ruqY9AYDk71xzI.png",
+  "masVersion" : "1.81.4.61dfcb45653e8f25b805812340ee1e2d56ae216d",
+  "categories" : [ "WEB_SERVICES" ],
+  "created" : "2021-05-03T13:46:45",
+  "supportsOAuthForActions" : true,
+  "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],
+  "apps" : [ {
+    "uuid" : "6b7320e0-6396-42f9-89c7-5d60eed69778",
+    "trackingUuid" : "5323823f-adfd-420a-bbcd-cbadbb4dd49a",
+    "title" : "My Office Hours",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "d07ba383-c4b3-45c7-932c-383f1621dc25",
+    "trackingUuid" : "55cec97d-e953-4f76-ae4a-6251be9e3e88",
+    "title" : "Meeting Recordings",
+    "numberOfEvents" : 1,
+    "action" : true
+  }, {
+    "uuid" : "d68cd2d3-5ec9-4d84-a7ff-889a5e249d33",
+    "trackingUuid" : "8007799d-1720-4dc7-a628-0c2233fa99dd",
+    "title" : "Upcoming Meetings (Current Week)",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "dcf49130-028d-4430-b753-bb362e186323",
+    "trackingUuid" : "f9571645-609c-4ffe-9b93-b749c564b97e",
+    "title" : "Create Meeting",
+    "numberOfEvents" : 0,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [{
+    "tag" : "helpUrl",
+    "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-zoom.html"
+}],
+  "scriptMetadata" : {
+    "originalFileName" : "9db63915-419e-4098-a15e-2fce74646a76.js",
+    "storedFileName" : "e40510b3-a760-43b4-ab16-56572dc6303b.js",
+    "checksum" : "BF057EDB4F112FEF082D4A73F915F6F6",
+    "apiVersion" : "1.1"
+  },
+  "hideAddButton" : false
+}

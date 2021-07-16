@@ -1,0 +1,10 @@
+.idea
+*.iml
+target
+bundles-dist
+
+#Eclipse 
+
+.settings
+.classpath
+.project

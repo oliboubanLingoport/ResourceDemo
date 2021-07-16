@@ -1,0 +1,63 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "99f3b6f2-c702-4945-89c0-c3d4c55da891",
+  "trackingUuid" : "1d5fe9ce-ca5a-41f8-984a-bd835c8e3d96",
+  "title" : "Workday",
+  "description" : "Integrate with Workday to submit Time Off requests, receive notifications about the status change of Expenses, Time Off Requests, Change Job, and act on notifications.",
+  "iconUrl" : "exported/Workday.6802ebc5497a2243ad129bc04a3975ab.svg",
+  "masVersion" : "1.95.0",
+  "categories" : [ "WEB_SERVICES" ],
+  "created" : "2021-06-18T13:45:03",
+  "supportsOAuthForActions" : true,
+  "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],
+  "apps" : [ {
+    "uuid" : "09d4a13d-d2d6-406d-b261-c78fb46c03a3",
+    "trackingUuid" : "f2744d92-09dd-48b4-a03d-4cda73f7d507",
+    "title" : "Create Time Off Request",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "11ca15c4-ccc0-4939-8d24-6bad2396f724",
+    "trackingUuid" : "4d7a5af4-3aa5-4d2a-b817-f36a3451111f",
+    "title" : "My Time Off Requests",
+    "numberOfEvents" : 1,
+    "action" : true
+  }, {
+    "uuid" : "2dd6b1bc-75b5-4a37-abe5-d688562e3a73",
+    "trackingUuid" : "bb50e293-6a15-4ee5-bdf7-e8f6e046db31",
+    "title" : "Create Change Job",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "69cd985f-261b-44c5-b6f6-f7ed5d6964b9",
+    "trackingUuid" : "3b7e3324-5680-451e-98b5-82f79687e9b0",
+    "title" : "Create Expense Report",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "8c2a1553-12d2-4040-bf01-d3f62287c610",
+    "trackingUuid" : "b33aea3b-f9aa-43c5-ab41-c4dcb69e480d",
+    "title" : "Time Off Requests",
+    "numberOfEvents" : 1,
+    "action" : true
+  }, {
+    "uuid" : "ea4c0cfa-5376-4df8-ad7f-eb2443e37654",
+    "trackingUuid" : "4ee52630-bbd7-47b6-9045-94c32b0a3917",
+    "title" : "Change Job",
+    "numberOfEvents" : 1,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [ {
+    "tag" : "helpUrl",
+    "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-workday.html"
+  } ],
+  "scriptMetadata" : {
+    "originalFileName" : "submitPTOAction.js",
+    "storedFileName" : "submitPTOAction.js",
+    "checksum" : "B074C88FFDDDFA824A5C2D087CABD94C",
+    "apiVersion" : "1.1"
+  },
+  "hideAddButton" : false
+}

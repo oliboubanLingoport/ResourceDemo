@@ -1,0 +1,45 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "3760ee84-7719-4ac3-ad85-d7364b7063d7",
+  "trackingUuid" : "6501bfff-2fe4-4d42-82f2-d51650043c4f",
+  "title" : "DocuSign",
+  "description" : "Deploy the Citrix DocuSign integration to quickly and securely make every agreement and approval digital from any device or intranet",
+  "iconUrl" : "https://iws-prod-global-customicons-cdn-endpoint.azureedge.net/image/C31fG2dN8BSGW3R4psXGxRn6tFUojOoV.png",
+  "masVersion" : "1.93.4.40cd82fa6dc8acc40d248f3d650d1bc3f60b6197",
+  "categories" : [ "WEB_SERVICES" ],
+  "created" : "2021-06-11T10:18:23",
+  "supportsOAuthForActions" : true,
+  "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],
+  "apps" : [ {
+    "uuid" : "0de060e7-8871-40f0-a696-330919fb4278",
+    "trackingUuid" : "bc4698ca-df10-492b-9d96-a31ced2396ea",
+    "title" : "My Received Envelopes",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "12e011c8-375e-4983-b973-c8f23fbc684d",
+    "trackingUuid" : "3dd06a09-de68-4c54-91af-d708a13ed7c3",
+    "title" : "My Sent Envelopes",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "f19b6ca2-aa9a-49a0-8954-99e0072d9fcc",
+    "trackingUuid" : "8cb8e85f-c84e-4476-9edc-b865e4e18dc5",
+    "title" : "Send a Template",
+    "numberOfEvents" : 0,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [ {
+    "tag" : "helpUrl",
+    "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-docusign.html"
+  } ],
+  "scriptMetadata" : {
+    "originalFileName" : "script.js",
+    "storedFileName" : "73f4e3b3-e2f3-43b3-9ce6-7f12da7b714c.js",
+    "checksum" : "9834A0D42E8ABB03888B0AFC064F6213",
+    "apiVersion" : "1.1"
+  },
+  "hideAddButton" : false
+}

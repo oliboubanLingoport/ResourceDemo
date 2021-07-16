@@ -1,0 +1,3321 @@
+{
+  "applications" : [ {
+    "appVersion" : {
+      "id" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+      "serviceId" : 78,
+      "version" : 638,
+      "parameters" : {
+        "imageUrl" : "exported/assignee_change.e00eda1b73d42bcf8b1d98dab18e11c9.svg",
+        "description" : "c4c00163-c07a-42e0-9da3-8b82382e5523"
+      },
+      "title" : "ac7c4217-dd04-44bb-9815-a0654195d4e7",
+      "startPageId" : "28b7eeab-881b-4d14-8913-a992edfc6fd3",
+      "pages" : [ {
+        "id" : "28b7eeab-881b-4d14-8913-a992edfc6fd3",
+        "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+        "type" : "DETAIL",
+        "components" : [ {
+          "type" : "NUMBER",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4092,
+          "required" : true,
+          "textType" : null,
+          "label" : "39f34c22-8b35-4e86-bb08-7ca0413d40c7",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "counter" : false,
+            "useComponentValueAsMinimum" : false,
+            "useComponentValueAsMaximum" : false,
+            "field_width" : "medium",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "0c899ca8-5911-4495-be79-04fd698ca526",
+          "defaultvalue" : null,
+          "displayorder" : 5
+        }, {
+          "type" : "NUMBER",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4086,
+          "required" : false,
+          "textType" : null,
+          "label" : "219e8fb1-fbde-4d8c-bc70-e6bbe0602a07",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "counter" : false,
+            "useComponentValueAsMinimum" : false,
+            "useComponentValueAsMaximum" : false,
+            "field_width" : "medium",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "28810371-0eb6-4102-95a5-a358313dbf36",
+          "defaultvalue" : null,
+          "displayorder" : 6
+        }, {
+          "type" : "TEXT_INPUT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4079,
+          "required" : true,
+          "textType" : null,
+          "label" : "509bea88-0b29-4e35-8137-c17f8e571456",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "2e9c6d20-59a4-4c3e-a684-7ed9812b5d46",
+          "parameters" : {
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "8fbc0888-276a-4c07-ab71-dd54a6c23541",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT_INPUT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4090,
+          "required" : true,
+          "textType" : null,
+          "label" : "92de718c-ef9f-4104-9133-ad9cdfb5321a",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "9b09d4ca-d82b-47a1-8cbc-2d145976e038",
+          "parameters" : {
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "00022fa8-8686-4b70-bf2d-3b199b22dc1f",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "NUMBER",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4081,
+          "required" : false,
+          "textType" : null,
+          "label" : "f643b578-ad0e-49e9-ad78-46b388e415b0",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "counter" : false,
+            "useComponentValueAsMinimum" : false,
+            "useComponentValueAsMaximum" : false,
+            "field_width" : "medium",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "order" : null
+          },
+          "id" : "d03888b3-fe8e-4194-a7e3-2f6dbfc4448f",
+          "defaultvalue" : null,
+          "displayorder" : 7
+        }, {
+          "type" : "BUTTON",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "247b32f0-e70c-4124-98a2-1f43bb30039b",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "operationStack" : {
+              "operations" : [ {
+                "type" : "SERVICE_ACTION",
+                "label" : "Run Service Action",
+                "id" : "op_rti8it",
+                "children" : [ ],
+                "serviceAction" : {
+                  "type" : "GWSC",
+                  "id" : "89b082f9-269d-4ea3-857f-d736102b7c15",
+                  "name" : "calculate",
+                  "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+                  "parameters" : [ {
+                    "id" : "0c7bf9c8-f25f-47b2-9550-a502e39afff4",
+                    "parameterId" : "balance",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "0c899ca8-5911-4495-be79-04fd698ca526"
+                  }, {
+                    "id" : "ec496b8f-24ec-44a4-8d31-b720259dbf2c",
+                    "parameterId" : "basis",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "28810371-0eb6-4102-95a5-a358313dbf36"
+                  }, {
+                    "id" : "e95223c8-2c0f-4a4e-b74e-cf1b8212c9b3",
+                    "parameterId" : "dob",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "d1f2fd81-ecd2-4eda-af8c-aa34a093d5dd"
+                  }, {
+                    "id" : "07bec2f3-8f16-49a9-8759-495514ed9ac9",
+                    "parameterId" : "first",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "8fbc0888-276a-4c07-ab71-dd54a6c23541"
+                  }, {
+                    "id" : "0d2a4b6a-1ab5-4a01-b75d-78d6ab860850",
+                    "parameterId" : "gender",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "ccc79d2b-d1f3-44ba-b367-0e2ae363cf90"
+                  }, {
+                    "id" : "582dcfbd-52f9-4938-b9ee-251613109c64",
+                    "parameterId" : "last",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "00022fa8-8686-4b70-bf2d-3b199b22dc1f"
+                  }, {
+                    "id" : "7fb813fc-9e87-4331-be30-89c8bb38b5f2",
+                    "parameterId" : "objective",
+                    "valueType" : "VALUE",
+                    "value" : "RothConversionLifetime"
+                  }, {
+                    "id" : "c5555357-9645-4917-b4e9-c9a813a39e31",
+                    "parameterId" : "otherAssets",
+                    "valueType" : "COMPONENT",
+                    "componentId" : "d03888b3-fe8e-4194-a7e3-2f6dbfc4448f"
+                  }, {
+                    "id" : "63a02b6d-60ee-49ac-bbb1-a472e57d02b3",
+                    "parameterId" : "userKey",
+                    "valueType" : "USER_EMAIL"
+                  } ],
+                  "serviceActionId" : "d638933d-02db-4ecd-9700-2a948a44fedd",
+                  "serviceId" : 78
+                },
+                "serviceId" : 78
+              } ]
+            },
+            "tone" : "PRIMARY",
+            "size" : "STANDARD",
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "showInBladeFooter" : true,
+            "order" : null
+          },
+          "id" : "06ac5ca5-48bd-47ed-84df-735da43ba589",
+          "defaultvalue" : null,
+          "displayorder" : 8
+        }, {
+          "type" : "FLEXIBLE_GRID",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "cellCount" : 4,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "columnCount" : 2,
+            "columnWidths" : [ 1, 1 ],
+            "order" : null
+          },
+          "id" : "5b6b76d1-07b9-40a0-b0b6-7e655be0bc9b",
+          "defaultvalue" : "",
+          "displayorder" : 3
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "5b6b76d1-07b9-40a0-b0b6-7e655be0bc9b",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "2e9c6d20-59a4-4c3e-a684-7ed9812b5d46",
+          "defaultvalue" : "",
+          "displayorder" : 1
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "5b6b76d1-07b9-40a0-b0b6-7e655be0bc9b",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "9b09d4ca-d82b-47a1-8cbc-2d145976e038",
+          "defaultvalue" : "",
+          "displayorder" : 2
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "5b6b76d1-07b9-40a0-b0b6-7e655be0bc9b",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "0c5e3a73-8bfd-481f-9a59-c624993ee83b",
+          "defaultvalue" : "",
+          "displayorder" : 3
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "5b6b76d1-07b9-40a0-b0b6-7e655be0bc9b",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "803c8e3e-cc81-477c-b122-d83f15d9440d",
+          "defaultvalue" : "",
+          "displayorder" : 4
+        }, {
+          "type" : "SELECT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "dfd7f9c0-784f-4c3e-908c-e0da4c1f650b",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "803c8e3e-cc81-477c-b122-d83f15d9440d",
+          "parameters" : {
+            "fillType" : "MANUAL",
+            "customFilterItems" : [ ],
+            "manualOptions" : [ {
+              "id" : "m0cfla",
+              "label" : "95550662-f420-4569-9266-b14c07193cc6",
+              "value" : "Male"
+            }, {
+              "id" : "0a2xk4",
+              "label" : "c2f2b934-5617-45ba-9067-8c5cf137e0f9",
+              "value" : "Female"
+            } ],
+            "mapToDataColumn" : true,
+            "matchOptions" : "STARTS_WITH",
+            "field_width" : "large",
+            "visible" : 1,
+            "defaultValue" : "Male",
+            "optionLabelColumnType" : null,
+            "prefill" : null,
+            "autoload" : 0,
+            "disabled" : 0
+          },
+          "id" : "ccc79d2b-d1f3-44ba-b367-0e2ae363cf90",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 1,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "f8c75bbe-baf2-4771-9d4a-101fe0eac915",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "3228dcbe-ef05-48f1-b18c-8f64ee978e99",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "bf2aa23f-3e20-4349-90e9-fdee7ee76b75",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "9d789c46-7319-4c7a-b1b7-2c1a87e77334",
+          "defaultvalue" : null,
+          "displayorder" : 2
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "1885bcbd-8214-4b62-94b6-5226949c18c7",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "d55d07ea-ccc2-46b3-90a2-ba99287d310a",
+          "defaultvalue" : null,
+          "displayorder" : 4
+        }, {
+          "type" : "DATETIME",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : true,
+          "textType" : null,
+          "label" : "0999074b-032c-4778-913d-b74156d18df7",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "0c5e3a73-8bfd-481f-9a59-c624993ee83b",
+          "parameters" : {
+            "pickerType" : "DATE",
+            "useComponentValueAsMinimum" : false,
+            "useComponentValueAsMaximum" : false,
+            "field_width" : "large",
+            "visible" : 1,
+            "mapToDataColumn" : true,
+            "customDefaultValue" : null,
+            "query" : null,
+            "prefill" : null,
+            "timeFormat" : "BROWSER",
+            "order" : null
+          },
+          "id" : "d1f2fd81-ecd2-4eda-af8c-aa34a093d5dd",
+          "defaultvalue" : "NONE",
+          "displayorder" : 1
+        } ],
+        "title" : "6b03bf3d-e434-4c86-bd51-3f26ec20b892",
+        "parameters" : { },
+        "tableid" : 284,
+        "datasourceid" : 78,
+        "pagetype" : "Detail",
+        "pagetype" : "Detail"
+      }, {
+        "id" : "9f169c42-543d-40ee-b843-f1de19c9a0be",
+        "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+        "type" : "DETAIL",
+        "components" : [ {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4085,
+          "required" : false,
+          "textType" : null,
+          "label" : "cb17c938-08cf-4c0c-b825-b656c0271dd3",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "48a91966-d3ba-4f36-a9fe-e4833bb3586c",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "65a207f7-c6ad-4ef3-b350-59dc6a87c75a",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4078,
+          "required" : false,
+          "textType" : null,
+          "label" : "5a1e43d9-71b7-470a-8a82-6a0b505b8045",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "1e5b44f3-36e6-42aa-904d-d8a83b043112",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "e8151f4e-b32a-4551-ad86-d5fd9fd222ea",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4092,
+          "required" : false,
+          "textType" : null,
+          "label" : "78e45f9a-a443-47b5-bc2d-0e3c207070d1",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : "6d95e5ac-4ca7-4658-9b2a-e4ba13f014b2",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "b62eb31f-9730-406e-b6c9-e6a3c7a069c5",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4086,
+          "required" : false,
+          "textType" : null,
+          "label" : "80b67f11-cf4a-4c2e-96e6-fde0b8afa168",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : "b0675962-84de-4c79-8ccd-aa98b1f99ad8",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "209467bf-d5e0-4951-9d16-e63b1fbc9ed8",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4088,
+          "required" : false,
+          "textType" : null,
+          "label" : "40e60fc4-f9c7-4c58-a58c-ef4f56860f5e",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : "988fef4a-6a33-4818-8f16-8f167c8ec4cd",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "e3723920-879c-4d81-8073-3daf498b325b",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4079,
+          "required" : false,
+          "textType" : 0,
+          "label" : "bb7264f2-4382-4aa3-b3c6-894cde42be2e",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "59576464-3c1d-4b99-b23b-fb20f1ac5dc0",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "name" : "First Name"
+          },
+          "id" : "b2e3fff2-9370-45c0-bda3-4d8ecde58c71",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4090,
+          "required" : false,
+          "textType" : 0,
+          "label" : "1674ebe9-6f24-4a94-81b3-a53525de8033",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "f90e4bf1-7b09-41c4-ad64-8e9b12263746",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "name" : "Last Name"
+          },
+          "id" : "1f17ceb1-29a9-44c8-a042-4ddfd34eac6c",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4081,
+          "required" : false,
+          "textType" : null,
+          "label" : "6e1135d4-7c3b-429a-8901-b6f32b75fcb4",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : "8d788d47-1b33-44a4-ae3f-138cf6f452a7",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "9ae8567e-0b16-4a51-80f6-87474b5d136e",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4084,
+          "required" : false,
+          "textType" : null,
+          "label" : "2fb9de18-cced-4bd9-93d8-d7ef2411f646",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "e92a4caf-b0a2-45b8-8e15-4dd8cd07390c",
+          "defaultvalue" : null,
+          "displayorder" : 13
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4089,
+          "required" : false,
+          "textType" : null,
+          "label" : "ff38c17f-26e2-47e8-a8d5-14c3d37bc4bb",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "31dfaf30-c68c-48e1-8197-0ae8107e054a",
+          "defaultvalue" : null,
+          "displayorder" : 10
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4080,
+          "required" : false,
+          "textType" : null,
+          "label" : "facc2737-a9ef-4b3c-9492-452c5781aeac",
+          "format" : "integer",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "de4ff61e-8835-4a46-b30b-0acc974b78a4",
+          "defaultvalue" : null,
+          "displayorder" : 7
+        }, {
+          "type" : "FLEXIBLE_GRID",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "cellCount" : 6,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "columnCount" : 3,
+            "columnWidths" : [ 1, 1 ],
+            "order" : null
+          },
+          "id" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "defaultvalue" : null,
+          "displayorder" : 3
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "59576464-3c1d-4b99-b23b-fb20f1ac5dc0",
+          "defaultvalue" : "",
+          "displayorder" : 1
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "f90e4bf1-7b09-41c4-ad64-8e9b12263746",
+          "defaultvalue" : "",
+          "displayorder" : 2
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "d087a8f0-73e9-4e73-a3a4-8eef4e541569",
+          "defaultvalue" : "",
+          "displayorder" : 3
+        }, {
+          "type" : "FLEXIBLE_GRID",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "cellCount" : 3,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "columnCount" : 3,
+            "columnWidths" : [ 1, 1 ],
+            "order" : null
+          },
+          "id" : "1c445c87-2193-4e1e-809c-70373d064de9",
+          "defaultvalue" : null,
+          "displayorder" : 5
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "1c445c87-2193-4e1e-809c-70373d064de9",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "6d95e5ac-4ca7-4658-9b2a-e4ba13f014b2",
+          "defaultvalue" : "",
+          "displayorder" : 1
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "1c445c87-2193-4e1e-809c-70373d064de9",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "b0675962-84de-4c79-8ccd-aa98b1f99ad8",
+          "defaultvalue" : "",
+          "displayorder" : 2
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "1c445c87-2193-4e1e-809c-70373d064de9",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "8d788d47-1b33-44a4-ae3f-138cf6f452a7",
+          "defaultvalue" : "",
+          "displayorder" : 3
+        }, {
+          "type" : "FLEXIBLE_GRID",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "cellCount" : 2,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "columnCount" : 2,
+            "columnWidths" : [ 1, 1 ],
+            "order" : null
+          },
+          "id" : "98a85770-deb7-4f4f-9b58-07d535feb056",
+          "defaultvalue" : null,
+          "displayorder" : 16
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "98a85770-deb7-4f4f-9b58-07d535feb056",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "48a91966-d3ba-4f36-a9fe-e4833bb3586c",
+          "defaultvalue" : "",
+          "displayorder" : 1
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "98a85770-deb7-4f4f-9b58-07d535feb056",
+          "parameters" : {
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "1e5b44f3-36e6-42aa-904d-d8a83b043112",
+          "defaultvalue" : "",
+          "displayorder" : 2
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 1,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "67dc38af-9cd7-4e55-828c-811726f43457",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "68c70a8b-6689-416f-bf0c-572ecc232229",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "73b19b25-87a5-47a1-8fe7-bdf87e66ce92",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "0",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "250dff05-010d-4094-809d-f50e731d560c",
+          "defaultvalue" : null,
+          "displayorder" : 2
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "66bfe591-53bf-4f13-a7f9-d446e75ce32e",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "0",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "4c6d4d3f-927b-4982-9081-53c17b3e6d48",
+          "defaultvalue" : null,
+          "displayorder" : 4
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "e18d10d3-5a85-4733-97bd-d44c958f766f",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "14dd5417-d484-4b38-9e39-a61f90997c5c",
+          "defaultvalue" : null,
+          "displayorder" : 6
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "b8a02bf4-669d-484f-b6fe-63275461f933",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "03b7969f-ea56-436b-b081-dde226fcaf55",
+          "defaultvalue" : null,
+          "displayorder" : 9
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "90fd1d29-233a-4b7f-a33a-0e1d5559f3e9",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "1",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "133b6f03-da32-4689-a39e-f58d7423d726",
+          "defaultvalue" : null,
+          "displayorder" : 12
+        }, {
+          "type" : "STATIC_TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "content" : "736fef9d-32f3-4ace-9101-9dd2da3797a7",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "font_size" : "0",
+            "query" : null,
+            "prefill" : null,
+            "alignment" : "left",
+            "fontStyle" : [ "bold" ],
+            "order" : null
+          },
+          "id" : "58d9c770-0f88-4d6a-ac87-f6a80da0b658",
+          "defaultvalue" : null,
+          "displayorder" : 15
+        }, {
+          "type" : "TABLE",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "4ee8b339-eb67-4f69-9bdb-9cd8e206ab95",
+          "format" : "",
+          "foreignKeyId" : 200,
+          "parentComponentId" : null,
+          "componentTableId" : 286,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "noDataText" : "872d671f-727d-48e5-89c6-8c8c68819817",
+              "tableid" : 286,
+              "show_1_to_n" : "1",
+              "columns" : [ {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "dda338c8-0394-47a9-9079-3569e3f016e5",
+                "id" : "jp98hv",
+                "tableid" : 286,
+                "columnid" : 4103,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "INTEGER"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "b9818c3c-1fda-4226-861c-9aa64f551008",
+                "id" : "6sexhk",
+                "tableid" : 286,
+                "columnid" : 4100,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "3b717115-3b53-4d8e-838d-4169cd4143f1",
+                "id" : "y5bjsl",
+                "tableid" : 286,
+                "columnid" : 4101,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "fbf8fab1-6dcc-47b1-9221-b637f7e6a685",
+                "id" : "m6jlxh",
+                "tableid" : 286,
+                "columnid" : 4102,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "hideIfEmpty" : true,
+              "sortable" : 1,
+              "alignment" : "left"
+            },
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "2201d901-8ba4-4fb3-9f93-c17c0b566517",
+          "defaultvalue" : null,
+          "displayorder" : 8,
+          "defaultLimit" : 20
+        }, {
+          "type" : "BUTTON",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "6eff86ae-d259-4f26-8a2c-f95c5735f922",
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : null,
+          "parameters" : {
+            "operationStack" : {
+              "operations" : [ {
+                "type" : "GOTO_URL",
+                "label" : "Go to URL",
+                "id" : "op_ckyefy",
+                "urlTemplate" : "https://trunk-dev.planfacts.com/api/microapp/qpc/pdf?id={{id}}&email={{advisor_email}}&thumbprint=7C03C4D71C7380AD1685116C3ACF6870FFC26C80"
+              } ]
+            },
+            "tone" : "PRIMARY",
+            "size" : "STANDARD",
+            "query" : null,
+            "prefill" : null,
+            "disabled" : 0,
+            "showInBladeFooter" : true,
+            "order" : null
+          },
+          "id" : "25e2c078-26b8-4c04-9bbe-1e9b5a98950b",
+          "defaultvalue" : null,
+          "displayorder" : 18
+        }, {
+          "type" : "TABLE",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "a0cabdae-4370-41c4-a614-7c754e005558",
+          "format" : "",
+          "foreignKeyId" : 199,
+          "parentComponentId" : null,
+          "componentTableId" : 285,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "noDataText" : "efb1276b-6024-4dd7-bf65-70daeb2b66d2",
+              "tableid" : 285,
+              "show_1_to_n" : "1",
+              "columns" : [ {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "f6e9b15a-89b7-43e3-88ea-f91a2f18be31",
+                "id" : "ab2n06",
+                "tableid" : 285,
+                "columnid" : 4096,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "INTEGER"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "5c2481c6-9060-4c7c-8afb-c780d0f3f21e",
+                "id" : "83q9yh",
+                "tableid" : 285,
+                "columnid" : 4093,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "064b82c1-dc1e-42f6-b8c3-49548cafa983",
+                "id" : "k03o2l",
+                "tableid" : 285,
+                "columnid" : 4094,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "eaa7fec3-082e-4078-8a44-240c01637f04",
+                "id" : "v883sl",
+                "tableid" : 285,
+                "columnid" : 4095,
+                "format" : "integer",
+                "tableColumn" : { }
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "hideIfEmpty" : true,
+              "sortable" : 1,
+              "alignment" : "left"
+            },
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "8592afe3-cbdc-4ba8-bc7a-325ef43913eb",
+          "defaultvalue" : null,
+          "displayorder" : 14,
+          "defaultLimit" : 20
+        }, {
+          "type" : "TABLE",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : null,
+          "label" : "b4619647-4e12-47d5-8029-fff01338d1b9",
+          "format" : "",
+          "foreignKeyId" : 198,
+          "parentComponentId" : null,
+          "componentTableId" : 283,
+          "defaultLimit" : 20,
+          "parameters" : {
+            "tableconfig" : {
+              "noDataText" : "8df9bc26-2bab-4045-a152-e10581496c1d",
+              "tableid" : 283,
+              "show_1_to_n" : "1",
+              "columns" : [ {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "3b44b00d-6d51-44aa-9c06-488ebe77d1aa",
+                "id" : "y7a02f",
+                "tableid" : 283,
+                "columnid" : 4074,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "INTEGER"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "196fe6d4-11fc-40d1-8595-523a5d2286dd",
+                "id" : "jwgf88",
+                "tableid" : 283,
+                "columnid" : 4071,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "701e28af-7d37-40ac-a655-606f3f220fae",
+                "id" : "k8c2m7",
+                "tableid" : 283,
+                "columnid" : 4072,
+                "urlTemplate" : null,
+                "format" : "integer",
+                "tableColumn" : {
+                  "columnType" : "DOUBLE"
+                },
+                "conditional_format" : "null"
+              }, {
+                "type" : "SIMPLE",
+                "aggregation" : "NONE",
+                "label" : "af3f3ae3-66e6-4a72-a153-8e3e1ea560aa",
+                "id" : "899r69",
+                "tableid" : 283,
+                "columnid" : 4073,
+                "format" : "integer",
+                "tableColumn" : { }
+              } ],
+              "images" : [ ],
+              "groupByColumns" : [ ],
+              "hideIfEmpty" : true,
+              "sortable" : 1,
+              "alignment" : "left"
+            },
+            "query" : null,
+            "prefill" : null,
+            "order" : null
+          },
+          "id" : "82b90567-1777-4f5d-9397-4ec1f39499a5",
+          "defaultvalue" : null,
+          "displayorder" : 11,
+          "defaultLimit" : 20
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4082,
+          "required" : false,
+          "textType" : null,
+          "label" : "aa2926f5-d003-49cd-99d2-e3dce00fa70d",
+          "format" : "none",
+          "foreignKeyId" : null,
+          "parentComponentId" : "d087a8f0-73e9-4e73-a3a4-8eef4e541569",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "ba3a45ae-967c-4cdf-8a53-382e7f580e78",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : { },
+          "id" : "4afa8758-0ca0-4e18-93b4-591c6673aaf5",
+          "defaultvalue" : "",
+          "displayorder" : 4
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : { },
+          "id" : "988fef4a-6a33-4818-8f16-8f167c8ec4cd",
+          "defaultvalue" : "",
+          "displayorder" : 5
+        }, {
+          "type" : "GRID_ITEM",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : null,
+          "required" : false,
+          "textType" : 0,
+          "label" : null,
+          "format" : "",
+          "foreignKeyId" : null,
+          "parentComponentId" : "517a02eb-2616-4991-88bf-52acd0dc5ac0",
+          "parameters" : { },
+          "id" : "47fe39a3-58e3-4e2a-a701-26787ef13db8",
+          "defaultvalue" : "",
+          "displayorder" : 6
+        }, {
+          "type" : "TEXT",
+          "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+          "columnId" : 4083,
+          "required" : false,
+          "textType" : null,
+          "label" : "d9bd25bc-b260-4149-84e4-45ff3bbce186",
+          "format" : "date",
+          "foreignKeyId" : null,
+          "parentComponentId" : "4afa8758-0ca0-4e18-93b4-591c6673aaf5",
+          "parameters" : {
+            "type" : "SIMPLE",
+            "operationStack" : {
+              "operations" : [ ]
+            },
+            "hideIfEmpty" : false,
+            "visible" : 1,
+            "query" : null,
+            "prefill" : null,
+            "conditional_format" : "{\"backcolor\":null,\"condition\":null,\"fillWholeRow\":null,\"option\":null,\"optionValue\":null,\"textcolor\":null}",
+            "order" : null
+          },
+          "id" : "8eb73093-efc5-4196-afe8-1a62daae5a1c",
+          "defaultvalue" : null,
+          "displayorder" : 1
+        } ],
+        "title" : "4fbe11ae-6841-404f-8ee6-b90011410144",
+        "parameters" : { },
+        "tableid" : 284,
+        "datasourceid" : 78,
+        "pagetype" : "Detail",
+        "pagetype" : "Detail"
+      } ],
+      "trackingUuid" : "a21241cb-e1f5-4578-a4b6-461128eaad30",
+      "actionApp" : true
+    },
+    "outboundLinks" : {
+      "page" : [ ],
+      "notification" : [ ]
+    }
+  } ],
+  "services" : [ {
+    "id" : 78,
+    "uuid" : "c32205b3-5f75-4996-8af8-157e61af28b7",
+    "version" : 25,
+    "title" : "PlanFacts Integration by Zuryc",
+    "serviceType" : "GWSC",
+    "group" : "GWSC:JSON",
+    "schemaName" : "rtstprodtest_planfacts_in",
+    "configuration" : {
+      "trackingUuid" : "67a5455c-547f-4607-9f5f-8b08e596bd02",
+      "baseUrl" : "https://trunk-dev.planfacts.com/api/microapp",
+      "security" : {
+        "type" : "APIKEY",
+        "apiKeys" : [ {
+          "key" : "x-api-key",
+          "value" : "{{secret \"dataEndpoint.apiKey1\"}}",
+          "authenticationMethod" : "HEADER"
+        } ]
+      },
+      "useServiceActionSecurity" : false,
+      "serviceActionSecurity" : {
+        "type" : "NONE"
+      },
+      "useOnPremProxy" : false,
+      "dataEndpoints" : [ {
+        "name" : "qpc",
+        "endpoint" : "qpc",
+        "requestMethod" : "GET",
+        "postMode" : "FORMDATA",
+        "body" : "",
+        "id" : 1,
+        "type" : "LIST",
+        "rootPath" : "",
+        "tables" : [ {
+          "id" : 5,
+          "tableName" : "qpc",
+          "path" : "",
+          "columns" : [ {
+            "name" : "advisor_display_name",
+            "path" : "AdvisorDisplayName",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "advisor_email",
+            "path" : "AdvisorEmail",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "balance",
+            "path" : "Balance",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "basis",
+            "path" : "Basis",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "birthdate",
+            "path" : "Birthdate",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "death_age",
+            "path" : "DeathAge",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "first_name",
+            "path" : "FirstName",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "gender",
+            "path" : "Gender",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "id",
+            "path" : "Id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "last_name",
+            "path" : "LastName",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "objective",
+            "path" : "Objective",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "RECORD"
+          }, {
+            "name" : "other_assets",
+            "path" : "OtherAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "roth_ira_taxes_ira_total",
+            "path" : "RothIRATaxesIRATotal",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "roth_ira_taxes_other_asse",
+            "path" : "RothIRATaxesOtherAssetsTotal",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "trad_ira_total",
+            "path" : "TradIRATotal",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          } ],
+          "root" : true,
+          "ignored" : false,
+          "childTables" : [ "TradIRA", "RothIRATaxesOtherAssets", "RothIRATaxesIRA" ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 6,
+          "tableName" : "qpc_roth_ira_taxes_ira",
+          "path" : "RothIRATaxesIRA",
+          "columns" : [ {
+            "name" : "age",
+            "path" : "Age",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "eoy_plan_balance",
+            "path" : "EOYPlanBalance",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "net_other_assets",
+            "path" : "NetOtherAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "total_all_assets",
+            "path" : "TotalAllAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "qpc",
+            "referenceGroup" : "nested_table_2"
+          }, {
+            "name" : "unique_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 36,
+            "source" : "GENERATED",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 8,
+          "tableName" : "qpc_roth_ira_taxes_other",
+          "path" : "RothIRATaxesOtherAssets",
+          "columns" : [ {
+            "name" : "age",
+            "path" : "Age",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "eoy_plan_balance",
+            "path" : "EOYPlanBalance",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "net_other_assets",
+            "path" : "NetOtherAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "total_all_assets",
+            "path" : "TotalAllAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "qpc",
+            "referenceGroup" : "nested_table_1"
+          }, {
+            "name" : "unique_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 36,
+            "source" : "GENERATED",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        }, {
+          "id" : 7,
+          "tableName" : "qpc_trad_ira",
+          "path" : "TradIRA",
+          "columns" : [ {
+            "name" : "age",
+            "path" : "Age",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "INTEGER",
+            "source" : "RECORD"
+          }, {
+            "name" : "eoy_plan_balance",
+            "path" : "EOYPlanBalance",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "net_other_assets",
+            "path" : "NetOtherAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "total_all_assets",
+            "path" : "TotalAllAssets",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "DOUBLE",
+            "source" : "RECORD"
+          }, {
+            "name" : "parent_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "PARENT_RECORD",
+            "parentColumnReference" : "id",
+            "parentTableReference" : "qpc",
+            "referenceGroup" : "nested_table_3"
+          }, {
+            "name" : "unique_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 36,
+            "source" : "GENERATED",
+            "columnRole" : "PRIMARY_KEY"
+          }, {
+            "name" : "root_id",
+            "primaryKeyCandidate" : true,
+            "ignored" : false,
+            "columnType" : "STRING",
+            "length" : 255,
+            "source" : "ROOT_RECORD",
+            "columnRole" : "ROOT_KEY_REFERENCE",
+            "parentColumnReference" : "id"
+          } ],
+          "root" : false,
+          "ignored" : false,
+          "childTables" : [ ],
+          "detailEndpointIds" : [ ],
+          "loadingType" : "PULL"
+        } ],
+        "incrementalSyncQueryParameters" : [ ],
+        "baseTableName" : "qpc",
+        "paginationEnabled" : true,
+        "mergeStrategy" : "NONE",
+        "queryParameters" : [ {
+          "name" : "lastSync",
+          "defaultValue" : "false",
+          "parameterType" : "BOOLEAN",
+          "required" : true,
+          "uniqueId" : "ed6d8196-cecb-4809-9324-2d944ba7c543"
+        } ],
+        "pathParameters" : [ ],
+        "synchronizationTypes" : [ {
+          "id" : "FullSynchronization",
+          "name" : "Full Synchronization",
+          "description" : "Full synchronization drops the local cache and pulls all data from the source system again.",
+          "preferredSchedule" : "DAILY"
+        } ],
+        "bodyParameters" : [ ],
+        "headerParameters" : [ {
+          "name" : "user-key",
+          "defaultValue" : "vW3wXa1MOE2gigBLfGppaQ==",
+          "parameterType" : "STRING",
+          "required" : true,
+          "uniqueId" : "5e4f1705-a6eb-4ff5-abf8-4034d0f0b25a"
+        } ]
+      } ],
+      "webhookListeners" : [ ],
+      "schedule" : [ {
+        "synchronizationTypeId" : "FullSynchronization",
+        "useTimeRange" : false,
+        "schedule" : "MINUTE"
+      } ],
+      "serviceActions" : [ {
+        "name" : "generatePDF",
+        "endpoint" : "qpc/pdf",
+        "requestMethod" : "GET",
+        "postMode" : "FORMDATA",
+        "body" : "",
+        "serviceActionId" : "b64e4be8-13a8-44be-a8e2-e5002c4c5f97",
+        "actionParameters" : [ {
+          "name" : "id",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741"
+        }, {
+          "name" : "email",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "708f0683-77c8-4045-bae5-1be917fd6405"
+        }, {
+          "name" : "thumbprint",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "7c92b3ed-02f8-4f18-bf0f-5b86ae928b71"
+        } ],
+        "preActionDataUpdates" : [ ],
+        "postActionDataUpdates" : [ ],
+        "queryParameters" : [ {
+          "name" : "id",
+          "required" : false,
+          "uniqueId" : "2599a006-e7bf-48e3-9b63-ef1ca4e070b9",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741"
+        }, {
+          "name" : "email",
+          "required" : false,
+          "uniqueId" : "bf8a20c8-3d66-4f36-9b41-b0c41af838c4",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "708f0683-77c8-4045-bae5-1be917fd6405"
+        }, {
+          "name" : "thumbprint",
+          "required" : false,
+          "uniqueId" : "b64e07b7-fc8f-4cc3-a68c-57a0e95c160f",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "7c92b3ed-02f8-4f18-bf0f-5b86ae928b71"
+        } ],
+        "pathParameters" : [ ],
+        "bodyParameters" : [ ],
+        "headerParameters" : [ ]
+      }, {
+        "name" : "calculate",
+        "endpoint" : "qpc/calc",
+        "requestMethod" : "GET",
+        "postMode" : "FORMDATA",
+        "body" : "",
+        "serviceActionId" : "d638933d-02db-4ecd-9700-2a948a44fedd",
+        "actionParameters" : [ {
+          "name" : "objective",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741"
+        }, {
+          "name" : "first",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "ab119619-db21-48ba-899e-65303a4b2b7f"
+        }, {
+          "name" : "last",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "ee6fbae6-8f63-45e0-9f5d-cb81ed2c5fb2"
+        }, {
+          "name" : "dob",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "17828cdb-65f2-48e9-bc9a-bf27f92e4127"
+        }, {
+          "name" : "gender",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "92121ac3-0c78-4f5b-abbb-d501ff167c89"
+        }, {
+          "name" : "balance",
+          "dataType" : "INTEGER",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "575e551d-f2aa-425c-8909-fbde90cfacec"
+        }, {
+          "name" : "basis",
+          "dataType" : "INTEGER",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "5d6648b0-b3f5-4871-a1c1-9aed29a3b2ac"
+        }, {
+          "name" : "otherAssets",
+          "dataType" : "INTEGER",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "c0b3444f-c538-42b9-932b-202764a0ba93"
+        }, {
+          "name" : "userKey",
+          "dataType" : "STRING",
+          "defaultValue" : "",
+          "required" : true,
+          "uniqueId" : "0a7b98d8-3d98-44f9-9b7b-1424e91cb8b6"
+        } ],
+        "preActionDataUpdates" : [ ],
+        "postActionDataUpdates" : [ ],
+        "queryParameters" : [ {
+          "name" : "objective",
+          "required" : false,
+          "uniqueId" : "0ea7053c-43f1-4923-a3bb-caaff1ed0be3",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741"
+        }, {
+          "name" : "first",
+          "required" : false,
+          "uniqueId" : "5da12d04-7276-4df4-ab9d-9c9334453d78",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "ab119619-db21-48ba-899e-65303a4b2b7f"
+        }, {
+          "name" : "last",
+          "required" : false,
+          "uniqueId" : "9b24a411-cb14-4660-b346-626bbcb5ab5e",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "ee6fbae6-8f63-45e0-9f5d-cb81ed2c5fb2"
+        }, {
+          "name" : "dob",
+          "required" : false,
+          "uniqueId" : "11da2982-6dd3-4f2c-819f-3c3d159dee5c",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "17828cdb-65f2-48e9-bc9a-bf27f92e4127"
+        }, {
+          "name" : "gender",
+          "required" : false,
+          "uniqueId" : "5424f938-717b-4009-b653-8f3508fd91c3",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "92121ac3-0c78-4f5b-abbb-d501ff167c89"
+        }, {
+          "name" : "balance",
+          "required" : false,
+          "uniqueId" : "5f79d553-0e6a-47fe-a938-5029d7c04495",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "575e551d-f2aa-425c-8909-fbde90cfacec"
+        }, {
+          "name" : "basis",
+          "required" : false,
+          "uniqueId" : "d42a890d-6486-430c-9bc3-5df0cd922017",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "5d6648b0-b3f5-4871-a1c1-9aed29a3b2ac"
+        }, {
+          "name" : "otherAssets",
+          "required" : false,
+          "uniqueId" : "6ec170d4-8aca-44a6-be0a-144f6d39751f",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "c0b3444f-c538-42b9-932b-202764a0ba93"
+        } ],
+        "pathParameters" : [ ],
+        "bodyParameters" : [ ],
+        "headerParameters" : [ {
+          "name" : "user-key",
+          "required" : false,
+          "uniqueId" : "5925657b-12f1-4795-970f-1f6b71defe2a",
+          "editMode" : "FULL",
+          "valueMapping" : "ACTION_PARAMETER",
+          "actionParameterUniqueId" : "0a7b98d8-3d98-44f9-9b7b-1424e91cb8b6"
+        } ]
+      } ],
+      "endpoints" : [ {
+        "legacyEndpointId" : 1,
+        "uniqueId" : "e8297709-0818-4954-ba40-396b9ce6bf39",
+        "name" : "qpc",
+        "type" : "LIST",
+        "parameters" : [ ],
+        "fullSynchronization" : {
+          "method" : "GET",
+          "uri" : "qpc?lastSync=false",
+          "headers" : [ {
+            "name" : "user-key",
+            "value" : "vW3wXa1MOE2gigBLfGppaQ=="
+          } ],
+          "bodyParameters" : [ ]
+        },
+        "incrementalSyncEnabled" : false,
+        "dataStructure" : {
+          "uniqueId" : "fa924f31-4483-4a98-9684-f454d3e40b24",
+          "baseTableName" : "qpc",
+          "rootPath" : "",
+          "tables" : [ {
+            "id" : 5,
+            "tableName" : "qpc",
+            "path" : "",
+            "columns" : [ {
+              "name" : "advisor_display_name",
+              "path" : "AdvisorDisplayName",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "advisor_email",
+              "path" : "AdvisorEmail",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "balance",
+              "path" : "Balance",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "basis",
+              "path" : "Basis",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "birthdate",
+              "path" : "Birthdate",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "death_age",
+              "path" : "DeathAge",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "INTEGER",
+              "source" : "RECORD"
+            }, {
+              "name" : "first_name",
+              "path" : "FirstName",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "gender",
+              "path" : "Gender",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "id",
+              "path" : "Id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD",
+              "columnRole" : "PRIMARY_KEY"
+            }, {
+              "name" : "last_name",
+              "path" : "LastName",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "objective",
+              "path" : "Objective",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "RECORD"
+            }, {
+              "name" : "other_assets",
+              "path" : "OtherAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "roth_ira_taxes_ira_total",
+              "path" : "RothIRATaxesIRATotal",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "roth_ira_taxes_other_asse",
+              "path" : "RothIRATaxesOtherAssetsTotal",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "trad_ira_total",
+              "path" : "TradIRATotal",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            } ],
+            "root" : true,
+            "ignored" : false,
+            "childTables" : [ "TradIRA", "RothIRATaxesOtherAssets", "RothIRATaxesIRA" ],
+            "detailEndpointIds" : [ ],
+            "loadingType" : "PULL"
+          }, {
+            "id" : 6,
+            "tableName" : "qpc_roth_ira_taxes_ira",
+            "path" : "RothIRATaxesIRA",
+            "columns" : [ {
+              "name" : "age",
+              "path" : "Age",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "INTEGER",
+              "source" : "RECORD"
+            }, {
+              "name" : "eoy_plan_balance",
+              "path" : "EOYPlanBalance",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "net_other_assets",
+              "path" : "NetOtherAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "total_all_assets",
+              "path" : "TotalAllAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "parent_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "PARENT_RECORD",
+              "parentColumnReference" : "id",
+              "parentTableReference" : "qpc",
+              "referenceGroup" : "nested_table_2"
+            }, {
+              "name" : "unique_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 36,
+              "source" : "GENERATED",
+              "columnRole" : "PRIMARY_KEY"
+            }, {
+              "name" : "root_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "ROOT_RECORD",
+              "columnRole" : "ROOT_KEY_REFERENCE",
+              "parentColumnReference" : "id"
+            } ],
+            "root" : false,
+            "ignored" : false,
+            "childTables" : [ ],
+            "detailEndpointIds" : [ ],
+            "loadingType" : "PULL"
+          }, {
+            "id" : 8,
+            "tableName" : "qpc_roth_ira_taxes_other",
+            "path" : "RothIRATaxesOtherAssets",
+            "columns" : [ {
+              "name" : "age",
+              "path" : "Age",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "INTEGER",
+              "source" : "RECORD"
+            }, {
+              "name" : "eoy_plan_balance",
+              "path" : "EOYPlanBalance",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "net_other_assets",
+              "path" : "NetOtherAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "total_all_assets",
+              "path" : "TotalAllAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "parent_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "PARENT_RECORD",
+              "parentColumnReference" : "id",
+              "parentTableReference" : "qpc",
+              "referenceGroup" : "nested_table_1"
+            }, {
+              "name" : "unique_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 36,
+              "source" : "GENERATED",
+              "columnRole" : "PRIMARY_KEY"
+            }, {
+              "name" : "root_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "ROOT_RECORD",
+              "columnRole" : "ROOT_KEY_REFERENCE",
+              "parentColumnReference" : "id"
+            } ],
+            "root" : false,
+            "ignored" : false,
+            "childTables" : [ ],
+            "detailEndpointIds" : [ ],
+            "loadingType" : "PULL"
+          }, {
+            "id" : 7,
+            "tableName" : "qpc_trad_ira",
+            "path" : "TradIRA",
+            "columns" : [ {
+              "name" : "age",
+              "path" : "Age",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "INTEGER",
+              "source" : "RECORD"
+            }, {
+              "name" : "eoy_plan_balance",
+              "path" : "EOYPlanBalance",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "net_other_assets",
+              "path" : "NetOtherAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "total_all_assets",
+              "path" : "TotalAllAssets",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "DOUBLE",
+              "source" : "RECORD"
+            }, {
+              "name" : "parent_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "PARENT_RECORD",
+              "parentColumnReference" : "id",
+              "parentTableReference" : "qpc",
+              "referenceGroup" : "nested_table_3"
+            }, {
+              "name" : "unique_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 36,
+              "source" : "GENERATED",
+              "columnRole" : "PRIMARY_KEY"
+            }, {
+              "name" : "root_id",
+              "primaryKeyCandidate" : true,
+              "ignored" : false,
+              "columnType" : "STRING",
+              "length" : 255,
+              "source" : "ROOT_RECORD",
+              "columnRole" : "ROOT_KEY_REFERENCE",
+              "parentColumnReference" : "id"
+            } ],
+            "root" : false,
+            "ignored" : false,
+            "childTables" : [ ],
+            "detailEndpointIds" : [ ],
+            "loadingType" : "PULL"
+          } ],
+          "mergeStrategy" : "NONE"
+        }
+      } ],
+      "actions" : [ {
+        "uniqueId" : "b64e4be8-13a8-44be-a8e2-e5002c4c5f97",
+        "name" : "generatePDF",
+        "parameters" : [ {
+          "uniqueId" : "7c92b3ed-02f8-4f18-bf0f-5b86ae928b71",
+          "name" : "thumbprint",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "thumbprint"
+          }
+        }, {
+          "uniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741",
+          "name" : "id",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "id"
+          }
+        }, {
+          "uniqueId" : "708f0683-77c8-4045-bae5-1be917fd6405",
+          "name" : "email",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "email"
+          }
+        } ],
+        "request" : {
+          "method" : "GET",
+          "uri" : "qpc/pdf?id={{id}}&email={{email}}&thumbprint={{thumbprint}}",
+          "headers" : [ ],
+          "bodyParameters" : [ ]
+        },
+        "preActionUpdates" : [ ],
+        "postActionUpdates" : [ ]
+      }, {
+        "uniqueId" : "d638933d-02db-4ecd-9700-2a948a44fedd",
+        "name" : "calculate",
+        "parameters" : [ {
+          "uniqueId" : "c0b3444f-c538-42b9-932b-202764a0ba93",
+          "name" : "otherAssets",
+          "type" : {
+            "dataType" : "INTEGER"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "otherAssets"
+          }
+        }, {
+          "uniqueId" : "ee6fbae6-8f63-45e0-9f5d-cb81ed2c5fb2",
+          "name" : "last",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "last"
+          }
+        }, {
+          "uniqueId" : "92121ac3-0c78-4f5b-abbb-d501ff167c89",
+          "name" : "gender",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "gender"
+          }
+        }, {
+          "uniqueId" : "575e551d-f2aa-425c-8909-fbde90cfacec",
+          "name" : "balance",
+          "type" : {
+            "dataType" : "INTEGER"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "balance"
+          }
+        }, {
+          "uniqueId" : "17828cdb-65f2-48e9-bc9a-bf27f92e4127",
+          "name" : "dob",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "dob"
+          }
+        }, {
+          "uniqueId" : "5d6648b0-b3f5-4871-a1c1-9aed29a3b2ac",
+          "name" : "basis",
+          "type" : {
+            "dataType" : "INTEGER"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "basis"
+          }
+        }, {
+          "uniqueId" : "ab119619-db21-48ba-899e-65303a4b2b7f",
+          "name" : "first",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "first"
+          }
+        }, {
+          "uniqueId" : "0a7b98d8-3d98-44f9-9b7b-1424e91cb8b6",
+          "name" : "userKey",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "userKey"
+          }
+        }, {
+          "uniqueId" : "c6ca2450-02a6-42bb-9ab6-4b93426e4741",
+          "name" : "objective",
+          "type" : {
+            "dataType" : "STRING"
+          },
+          "value" : {
+            "type" : "ACTION_PARAMETER",
+            "required" : true,
+            "defaultValue" : "",
+            "actionParameterName" : "objective"
+          }
+        } ],
+        "request" : {
+          "method" : "GET",
+          "uri" : "qpc/calc?objective={{objective}}&first={{first}}&last={{last}}&dob={{dob}}&gender={{gender}}&balance={{balance}}&basis={{basis}}&otherAssets={{otherAssets}}",
+          "headers" : [ {
+            "name" : "user-key",
+            "value" : "{{userKey}}"
+          } ],
+          "bodyParameters" : [ ]
+        },
+        "preActionUpdates" : [ ],
+        "postActionUpdates" : [ ]
+      } ],
+      "iconUrl" : "https://iws-prod-global-customicons-cdn-endpoint.azureedge.net/image/MxeqXmm1mhQGrprRPQz0urGMiPoK8XPR.png",
+      "iconType" : "CUSTOM_IMAGE"
+    },
+    "context" : { },
+    "tables" : [ {
+      "id" : 283,
+      "title" : "qpc_roth_ira_taxes_other",
+      "displayName" : "Qpc Roth Ira Taxes Other",
+      "entityName" : "qpc_roth_ira_taxes_other",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 4071,
+        "title" : "eoy_plan_balance",
+        "displayName" : "Eoy Plan Balance",
+        "attributeName" : "eoy_plan_balance",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Eoy Plan Balance",
+        "primaryKey" : false
+      }, {
+        "id" : 4072,
+        "title" : "net_other_assets",
+        "displayName" : "Net Other Assets",
+        "attributeName" : "net_other_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Net Other Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4073,
+        "title" : "total_all_assets",
+        "displayName" : "Total All Assets",
+        "attributeName" : "total_all_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Total All Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4074,
+        "title" : "age",
+        "displayName" : "Age",
+        "attributeName" : "age",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Age",
+        "primaryKey" : false
+      }, {
+        "id" : 4075,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : false
+      }, {
+        "id" : 4076,
+        "title" : "unique_id",
+        "displayName" : "Unique Id",
+        "attributeName" : "unique_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Unique Id",
+        "primaryKey" : true
+      }, {
+        "id" : 4077,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 284,
+      "title" : "qpc",
+      "displayName" : "Qpc",
+      "entityName" : "qpc",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 4078,
+        "title" : "advisor_email",
+        "displayName" : "Advisor Email",
+        "attributeName" : "advisor_email",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Advisor Email",
+        "primaryKey" : false
+      }, {
+        "id" : 4079,
+        "title" : "first_name",
+        "displayName" : "First Name",
+        "attributeName" : "first_name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "First Name",
+        "primaryKey" : false
+      }, {
+        "id" : 4080,
+        "title" : "trad_ira_total",
+        "displayName" : "Trad Ira Total",
+        "attributeName" : "trad_ira_total",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Trad Ira Total",
+        "primaryKey" : false
+      }, {
+        "id" : 4081,
+        "title" : "other_assets",
+        "displayName" : "Other Assets",
+        "attributeName" : "other_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Other Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4082,
+        "title" : "gender",
+        "displayName" : "Gender",
+        "attributeName" : "gender",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Gender",
+        "primaryKey" : false
+      }, {
+        "id" : 4083,
+        "title" : "birthdate",
+        "displayName" : "Birthdate",
+        "attributeName" : "birthdate",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Birthdate",
+        "primaryKey" : false
+      }, {
+        "id" : 4084,
+        "title" : "roth_ira_taxes_ira_total",
+        "displayName" : "Roth Ira Taxes Ira Total",
+        "attributeName" : "roth_ira_taxes_ira_total",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Roth Ira Taxes Ira Total",
+        "primaryKey" : false
+      }, {
+        "id" : 4085,
+        "title" : "advisor_display_name",
+        "displayName" : "Advisor Display Name",
+        "attributeName" : "advisor_display_name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Advisor Display Name",
+        "primaryKey" : false
+      }, {
+        "id" : 4086,
+        "title" : "basis",
+        "displayName" : "Basis",
+        "attributeName" : "basis",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Basis",
+        "primaryKey" : false
+      }, {
+        "id" : 4087,
+        "title" : "objective",
+        "displayName" : "Objective",
+        "attributeName" : "objective",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Objective",
+        "primaryKey" : false
+      }, {
+        "id" : 4088,
+        "title" : "death_age",
+        "displayName" : "Death Age",
+        "attributeName" : "death_age",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Death Age",
+        "primaryKey" : false
+      }, {
+        "id" : 4089,
+        "title" : "roth_ira_taxes_other_asse",
+        "displayName" : "Roth Ira Taxes Other Asse",
+        "attributeName" : "roth_ira_taxes_other_asse",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Roth Ira Taxes Other Asse",
+        "primaryKey" : false
+      }, {
+        "id" : 4090,
+        "title" : "last_name",
+        "displayName" : "Last Name",
+        "attributeName" : "last_name",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Last Name",
+        "primaryKey" : false
+      }, {
+        "id" : 4091,
+        "title" : "id",
+        "displayName" : "Id",
+        "attributeName" : "id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Id",
+        "primaryKey" : true
+      }, {
+        "id" : 4092,
+        "title" : "balance",
+        "displayName" : "Balance",
+        "attributeName" : "balance",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Balance",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 285,
+      "title" : "qpc_roth_ira_taxes_ira",
+      "displayName" : "Qpc Roth Ira Taxes Ira",
+      "entityName" : "qpc_roth_ira_taxes_ira",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 4093,
+        "title" : "eoy_plan_balance",
+        "displayName" : "Eoy Plan Balance",
+        "attributeName" : "eoy_plan_balance",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Eoy Plan Balance",
+        "primaryKey" : false
+      }, {
+        "id" : 4094,
+        "title" : "net_other_assets",
+        "displayName" : "Net Other Assets",
+        "attributeName" : "net_other_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Net Other Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4095,
+        "title" : "total_all_assets",
+        "displayName" : "Total All Assets",
+        "attributeName" : "total_all_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Total All Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4096,
+        "title" : "age",
+        "displayName" : "Age",
+        "attributeName" : "age",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Age",
+        "primaryKey" : false
+      }, {
+        "id" : 4097,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : false
+      }, {
+        "id" : 4098,
+        "title" : "unique_id",
+        "displayName" : "Unique Id",
+        "attributeName" : "unique_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Unique Id",
+        "primaryKey" : true
+      }, {
+        "id" : 4099,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    }, {
+      "id" : 286,
+      "title" : "qpc_trad_ira",
+      "displayName" : "Qpc Trad Ira",
+      "entityName" : "qpc_trad_ira",
+      "type" : "TABLE",
+      "loadingType" : "PULL",
+      "columns" : [ {
+        "id" : 4100,
+        "title" : "eoy_plan_balance",
+        "displayName" : "Eoy Plan Balance",
+        "attributeName" : "eoy_plan_balance",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Eoy Plan Balance",
+        "primaryKey" : false
+      }, {
+        "id" : 4101,
+        "title" : "net_other_assets",
+        "displayName" : "Net Other Assets",
+        "attributeName" : "net_other_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Net Other Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4102,
+        "title" : "total_all_assets",
+        "displayName" : "Total All Assets",
+        "attributeName" : "total_all_assets",
+        "type" : "DOUBLE",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Total All Assets",
+        "primaryKey" : false
+      }, {
+        "id" : 4103,
+        "title" : "age",
+        "displayName" : "Age",
+        "attributeName" : "age",
+        "type" : "INTEGER",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Age",
+        "primaryKey" : false
+      }, {
+        "id" : 4104,
+        "title" : "parent_id",
+        "displayName" : "Parent Id",
+        "attributeName" : "parent_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Parent Id",
+        "primaryKey" : false
+      }, {
+        "id" : 4105,
+        "title" : "unique_id",
+        "displayName" : "Unique Id",
+        "attributeName" : "unique_id",
+        "type" : "STRING",
+        "nullable" : false,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Unique Id",
+        "primaryKey" : true
+      }, {
+        "id" : 4106,
+        "title" : "root_id",
+        "displayName" : "Root Id",
+        "attributeName" : "root_id",
+        "type" : "STRING",
+        "nullable" : true,
+        "autoIncrement" : false,
+        "roleType" : "DB_COLUMN",
+        "searchable" : true,
+        "readable" : true,
+        "writable" : false,
+        "defaultLabel" : "Root Id",
+        "primaryKey" : false
+      } ]
+    } ],
+    "relationships" : [ {
+      "id" : 198,
+      "pkTable" : {
+        "id" : 284,
+        "title" : "qpc",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 283,
+        "title" : "qpc_roth_ira_taxes_other",
+        "type" : "TABLE"
+      },
+      "alias" : "nested_table_1",
+      "userDefined" : true,
+      "scriptDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 198,
+        "pkColumn" : {
+          "id" : 4091,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 4075,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : true,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : false
+        }
+      } ]
+    }, {
+      "id" : 199,
+      "pkTable" : {
+        "id" : 284,
+        "title" : "qpc",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 285,
+        "title" : "qpc_roth_ira_taxes_ira",
+        "type" : "TABLE"
+      },
+      "alias" : "nested_table_2",
+      "userDefined" : true,
+      "scriptDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 199,
+        "pkColumn" : {
+          "id" : 4091,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 4097,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : true,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : false
+        }
+      } ]
+    }, {
+      "id" : 200,
+      "pkTable" : {
+        "id" : 284,
+        "title" : "qpc",
+        "type" : "TABLE"
+      },
+      "fkTable" : {
+        "id" : 286,
+        "title" : "qpc_trad_ira",
+        "type" : "TABLE"
+      },
+      "alias" : "nested_table_3",
+      "userDefined" : true,
+      "scriptDefined" : false,
+      "fkColumnPairs" : [ {
+        "fkId" : 200,
+        "pkColumn" : {
+          "id" : 4091,
+          "title" : "id",
+          "displayName" : "Id",
+          "attributeName" : "id",
+          "type" : "STRING",
+          "nullable" : false,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Id",
+          "primaryKey" : true
+        },
+        "fkColumn" : {
+          "id" : 4104,
+          "title" : "parent_id",
+          "displayName" : "Parent Id",
+          "attributeName" : "parent_id",
+          "type" : "STRING",
+          "nullable" : true,
+          "autoIncrement" : false,
+          "roleType" : "DB_COLUMN",
+          "searchable" : true,
+          "readable" : true,
+          "writable" : false,
+          "defaultLabel" : "Parent Id",
+          "primaryKey" : false
+        }
+      } ]
+    } ],
+    "fullyConfigured" : false,
+    "oauthLoginNeeded" : false
+  } ],
+  "notifications" : [ {
+    "id" : "ebde2621-8eed-4b26-8ca5-ca6eafd5259c",
+    "legacyId" : 248,
+    "appId" : "cc2a1af7-bc57-4804-918a-a04fa61c22f2",
+    "version" : 2,
+    "eventType" : "NEW",
+    "serviceId" : 78,
+    "tableId" : 284,
+    "label" : "332a4d2e-4ea6-4b02-9b59-6291718d9914",
+    "schedule" : {
+      "jobSchedule" : "AFTER_CONNECTOR_SYNC",
+      "runTimezone" : "GMT"
+    },
+    "periodicDefinition" : {
+      "groupByDataUsed" : "SAME",
+      "groupByDatePeriod" : "DAY",
+      "reminderPeriod" : 0
+    },
+    "expirationDelete" : false,
+    "audience" : "BY_USER_QUERY",
+    "audienceQuery" : {
+      "tableId" : 284,
+      "columnId" : 4078,
+      "variable" : "USER_EMAIL"
+    },
+    "messageDefinition" : {
+      "title" : "a9b10fbf-36f5-4c81-99b0-cee28445dc49",
+      "body" : "2ebfec79-25cb-4056-84ca-ec61544331a8",
+      "gotoAppPageId" : "9f169c42-543d-40ee-b843-f1de19c9a0be",
+      "configuration" : {
+        "highPriority" : false,
+        "cardIcon" : {
+          "imageUrl" : "exported/ms-powerbi.394a2264d9f5fd50df5b617ca3a0a5ce.svg",
+          "type" : "LIBRARY"
+        }
+      },
+      "actionButtonIds" : [ ],
+      "task" : false,
+      "url" : ""
+    },
+    "skipAlreadyProcessedEvents" : false,
+    "hasValidConstraints" : true
+  } ],
+  "resolvers" : [ ],
+  "modelConfiguration" : {
+    "appIds" : [ "cc2a1af7-bc57-4804-918a-a04fa61c22f2" ],
+    "resolverIds" : [ ],
+    "bundleDescription" : "Client interactive tools that help financial advisors plan and sell.",
+    "bundleVendor" : "Zuryc"
+  },
+  "translationChecksum" : "B867EDDB1E3D0336FFEE6E25BDD52417",
+  "appliedSappUpgrades" : [ "microapp-6790", "microapp-12505", "microapp-4666", "microapp-12427", "microapp-3580", "microapp-4518", "microapp-6593", "microapp-11349", "microapp-7290", "microapp-8003", "microapp-9702", "microapp-10876", "microapp-5025", "microapp-7561", "microapp-9701", "microapp-10858", "microapp-6293", "microapp-8892", "microapp-3838", "microapp-8950", "microapp-7984", "microapp-8921", "microapp-3548", "microapp-8511", "microapp-10420", "microapp-5227", "microapp-6617", "microapp-6264", "microapp-6853", "microapp-7888", "microapp-4020", "microapp-1980", "microapp-2450", "microapp-8576", "microapp-12525", "microapp-10856", "microapp-10549", "microapp-9597", "microapp-11136", "microapp-6262", "microapp-10421", "microapp-11340", "microapp-3547", "microapp-7961" ],
+  "buildVersion" : "1.51.0.aa2ec6cfe9c556351d64e7c97530a98d89d2b4b0"
+}

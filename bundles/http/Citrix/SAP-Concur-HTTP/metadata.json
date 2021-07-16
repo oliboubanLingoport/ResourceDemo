@@ -1,0 +1,45 @@
+{
+  "type" : "HTTP",
+  "vendor" : "Citrix",
+  "id" : "2de5e8b3-7853-49cb-93b2-17af7f55b572",
+  "trackingUuid" : "d72f3bad-b517-4a58-8cf0-ee11c1ab2cf7",
+  "title" : "SAP Concur",
+  "description" : "Integrate with SAP Concur to receive notifications about approval requests and approve or send them back.",
+  "iconUrl" : "exported/Concur.7f4236c35298ebbe5598db9a66e70273.svg",
+  "masVersion" : "1.101.0.b2c44a647767b3456fd79adbd8b61d80e8963b9f",
+  "categories" : [ "WEB_SERVICES" ],
+  "created" : "2021-07-02T09:57:50",
+  "supportsOAuthForActions" : true,
+  "i18nLanguages" : [ "de", "en", "es", "fr", "it", "ja", "nl", "pt-BR", "zh-CN" ],
+  "apps" : [ {
+    "uuid" : "474c8f30-9cfb-4f39-a661-1f164aa99f61",
+    "trackingUuid" : "be3df8a2-77a4-4b9a-bad7-72e968518b94",
+    "title" : "Expenses",
+    "numberOfEvents" : 0,
+    "action" : true
+  }, {
+    "uuid" : "8178b0ed-027c-433b-9ef8-b38c773903bc",
+    "trackingUuid" : "b811c2d8-c9ec-488b-821d-9f7984e2faf9",
+    "title" : "Itineraries",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "8eaee87b-c507-4010-9015-6e3fc781e837",
+    "trackingUuid" : "293062e6-95c1-4d8d-8a1b-c5c859752cb9",
+    "title" : "Reports",
+    "numberOfEvents" : 2,
+    "action" : true
+  }, {
+    "uuid" : "a0c7e660-7682-43cc-b81c-f4b6789ee4c5",
+    "trackingUuid" : "57015c23-d2e9-48f9-9221-ae673be082aa",
+    "title" : "Approvals",
+    "numberOfEvents" : 3,
+    "action" : true
+  } ],
+  "vaResolvers" : [ ],
+  "tags" : [ {
+    "tag" : "helpUrl",
+    "value" : "https://docs.citrix.com/en-us/citrix-microapps/set-up-template-integrations/integrate-concur.html"
+  } ],
+  "hideAddButton" : false
+}
